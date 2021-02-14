@@ -56,8 +56,7 @@ about: >
 
 CV & Resume: >
 
-Here's my [academic CV] (link:#).
-And here's my [industry resume] (link:#). 
+- {file: 'pages/cvres.html'}
 
 #-------------------------------
 # Work Section
