@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 'Airbnb and Advaned Topic Modeling'
+title: 'Airbnb and Advanced Topic Modeling'
 ---
 Come back soon!
