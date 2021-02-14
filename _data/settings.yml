@@ -50,7 +50,7 @@ about: >
 
 projects:
 - {name: 'Airbnb & Automatic Topic Modeling', folder: 'proj-1', file: 'projects/proj-1.html', image="projects/proj-1/thumb.jpg"}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'TBA', folder: 'proj-2', file: 'projects/proj-2.html'}
 
 #-------------------------------
 # Contact Section
