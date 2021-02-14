@@ -54,8 +54,7 @@ about: >
 #-------------------------------
 # CV & Resume Section
 
-CV & Resume: >
-
+CV & Resume: 
   - {file: 'pages/cvres.html'}
 
 #-------------------------------
